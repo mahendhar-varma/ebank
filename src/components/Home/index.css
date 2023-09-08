@@ -1,0 +1,21 @@
+.home-container {
+  background-color: #183b56;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-title {
+  color: #ffffff;
+  font-size: 30px;
+  margin: 15px;
+}
+
+.card-image {
+  width: 400px;
+  height: 200px;
+  margin: 15px;
+}
